@@ -1,5 +1,7 @@
 ## 1. Añade en tu servidor el módulo mod_info y explique para que se utiliza este plugin.
 ## 2. Oculta la versión del sistema y sistema de apache.
+![image](https://user-images.githubusercontent.com/113515441/199681255-b465f46e-cdfe-4cbe-91e7-7333deaa4d23.png)
+
 ## 3. Crea una carpeta en la raíz del path del servidor con el nombre public y otra con el
 nombre private. Permite que la carpeta public se visualice y el resto de las carpetas
 que se creen, incluyendo private, no se muestren. A continuación, puede observar
