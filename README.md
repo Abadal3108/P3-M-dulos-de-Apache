@@ -45,7 +45,7 @@ Funciona por defecto sin hacer ningún cambio.
 
   1. Descargue o clone el repo y copie el directorio de la lista de directorios en el directorio raíz de Apache.
 
-  2.Copie el archivo htaccess.txt en el directorio raíz de su servidor y renómbrelo a .htaccess.
+  2. Copie el archivo htaccess.txt en el directorio raíz de su servidor y renómbrelo a .htaccess.
   Dentro del archivo .htaccess renombrado
 
   -Sustituya {LISTING_DIRECTORY} por la ubicación de la carpeta de listas de directorios de su servidor.
