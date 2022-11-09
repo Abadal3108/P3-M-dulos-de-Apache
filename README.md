@@ -40,6 +40,19 @@ Funciona por defecto sin hacer ningún cambio.
 ![image](https://user-images.githubusercontent.com/113515441/200398102-762dd25e-2ee8-4df2-a43f-1d130d888870.png)
 
 ## 5. Muestra los directorios de Apache con un tema diferente. Puedes utilizar https://github.com/ramlmn/Apache-Directory-Listing u otra alternativa que te llame la atención.
+1. Descargue o clone el repo y copie el directorio de la lista de directorios en el directorio raíz de Apache.
+
+2.Copie el archivo htaccess.txt en el directorio raíz de su servidor y renómbrelo a .htaccess.
+Dentro del archivo .htaccess renombrado
+
+-Sustituya {LISTING_DIRECTORY} por la ubicación de la carpeta de listas de directorios de su servidor.
+-Sustituya {LISTING_STYLE} por grid, table, grid-darkmode, table-darkmode, grid-automode o table-automode.
+  grid-automode y table-automode cambiarán automáticamente entre 
+  los temas claros y oscuros en función de la configuración del sistema 
+  operativo o del navegador del usuario
+
+
+
 ![image](https://user-images.githubusercontent.com/113515441/200405906-9ca9cd6d-4a89-454d-a3e4-957b931a0d30.png)
 
 ## 6. (Extra: 1 punto) Crea tu propio tema para el ejercicio anterior, sin dependencias externas.
