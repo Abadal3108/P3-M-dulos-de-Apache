@@ -60,5 +60,8 @@ Funciona por defecto sin hacer ningún cambio.
 ![image](https://user-images.githubusercontent.com/113515441/200405906-9ca9cd6d-4a89-454d-a3e4-957b931a0d30.png)
 
 ## 6. (Extra: 1 punto) Crea tu propio tema para el ejercicio anterior, sin dependencias externas.
+
+
+Podemos editar un de los temas que venían por defecto con css o crear un nuevo y asignárselo como hemos hecho en el ejercicio anterior.
 ![image](https://user-images.githubusercontent.com/113515441/200407126-11747a26-d12c-457d-832a-137d997bbd2a.png)
 
