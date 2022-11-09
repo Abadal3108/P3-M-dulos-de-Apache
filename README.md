@@ -14,6 +14,7 @@ Ejecutamos este comando y creamos 2 carpetas
 
 Ejecutamos :sudo nano /etc/apache2/apache2.conf y ponemos el contenido de la foto:
 ![image](https://user-images.githubusercontent.com/113515441/200664769-c7bf77c2-18ab-4b96-a0a1-d35ce07cb3c2.png)
+
 él - es para hacerlo privado y el + público
 
 
