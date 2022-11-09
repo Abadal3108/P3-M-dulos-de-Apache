@@ -48,9 +48,9 @@ Funciona por defecto sin hacer ningún cambio.
   2. Copie el archivo htaccess.txt en el directorio raíz de su servidor y renómbrelo a .htaccess.
   Dentro del archivo .htaccess renombrado
 
-  -Sustituya {LISTING_DIRECTORY} por la ubicación de la carpeta de listas de directorios de su servidor.
+     -Sustituya {LISTING_DIRECTORY} por la ubicación de la carpeta de listas de directorios de su servidor.
   
-  -Sustituya {LISTING_STYLE} por grid, table, grid-darkmode, table-darkmode, grid-automode o table-automode.
+     -Sustituya {LISTING_STYLE} por grid, table, grid-darkmode, table-darkmode, grid-automode o table-automode.
   grid-automode y table-automode cambiarán automáticamente entre 
   los temas claros y oscuros en función de la configuración del sistema 
   operativo o del navegador del usuario
