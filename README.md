@@ -10,6 +10,12 @@ Ejecutamos este comando: sudo nano /etc/apache2/apache2.conf y ponemos estas 2 l
 ## 3. Crea una carpeta en la raíz del path del servidor con el nombre public y otra con el nombre private. Permite que la carpeta public se visualice y el resto de las carpetas que se creen, incluyendo private, no se muestren. A continuación, puede observar como se debe de mostrar la carpeta public:
 Ejecutamos este comando y creamos 2 carpetas
 
+sudo cd var/www/html
+
+mkdir public 
+
+mkdir private
+
 ![image](https://user-images.githubusercontent.com/113515441/200662658-ade67964-2cb7-48d2-8372-902e7070191e.png)
 
 Ejecutamos :sudo nano /etc/apache2/apache2.conf y ponemos el contenido de la foto:
