@@ -41,6 +41,8 @@ Funciona por defecto sin hacer ningún cambio.
 
 ## 5. Muestra los directorios de Apache con un tema diferente. Puedes utilizar https://github.com/ramlmn/Apache-Directory-Listing u otra alternativa que te llame la atención.
 
+
+
   1. Descargue o clone el repo y copie el directorio de la lista de directorios en el directorio raíz de Apache.
 
   2.Copie el archivo htaccess.txt en el directorio raíz de su servidor y renómbrelo a .htaccess.
